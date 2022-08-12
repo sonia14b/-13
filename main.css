@@ -1,0 +1,141 @@
+body {
+    background-image: url(3.jpg);
+    height: 600px;
+    margin: 0 0 0 2px;
+}
+
+.menu {
+    background-color: darkmagenta;
+    text-align: center;
+}
+
+.link {
+    display: inline-block;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    padding: 30px;
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.link:hover{
+    background-color: violet;
+    color: black;
+}
+
+.menu2 {
+    margin-top: 30px;
+    background-color: darkgray;
+    text-align: center;
+}
+
+.link2 {
+    display: inline-block;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    padding: 30px;
+    text-decoration: none;
+    font-family: 'Cormorant SC', serif;
+}
+
+.link2:hover{
+    background-color: aliceblue;
+    color: blue;
+}
+
+.div1{
+    width: 138px ;
+    margin-top: 10px;
+}
+.img1{
+    width: 31px ;
+}
+.a1{
+    justify-content: space-between;
+    background-color: black;
+    text-decoration: none;
+    display: flex;
+    align-items: center ;
+    padding: 17px 10px 17px 10px ;
+    border-radius: 15px ;
+}
+.span1{
+    color: aliceblue;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-family: Magic Retro;
+    font-size: 40px;
+    color: aqua;
+}
+
+.div {
+    font-family: Vanger;
+    margin: auto;
+    width: 320px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.img {
+    width: 320px;
+    height: 220px;
+    margin: 0;
+}
+
+.title {
+    color: #161d2c;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+
+.text {
+    margin: 0;
+    padding: 15px 15px 15px 15px;
+    background-color: white;
+}
+
+.span {
+    color: #ea535d;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.lorem {
+    margin: 5px 0px 5px 0px;
+    color: #1e2532;
+}
+
+.aa {
+    margin: 15px 170px 10px 0px;
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: #f9f1eb;
+    background-color: #ffc107;
+    padding: 5px 20px 5px 20px;
+}
+
+h2 {
+    font-family: CHERL;
+    font-size: 50px;
+    color: #ea535d;
+}
+
+h3 {
+    font-family: Vanger;
+    font-size: 60px;
+    color: #ffc107;
+}
+
+.text2 {
+    margin: 50px;
+    color: blueviolet;
+    background-color: aqua;
+    font-family: Magic Retro;
+    width: 300px;
+    border: 5px solid magenta;
+    padding: 40px;
+}
